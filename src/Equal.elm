@@ -1,9 +1,21 @@
 module Equal exposing (Equal(..))
 
-{-| Main type.
+{-| A module for complex numbers
+
+
+# Types
+
+@docs Equal
+
+#functions
+
+@docs equal
+
 -}
 
 
+{-| Main type.
+-}
 type Equal a
     = Equal (a -> a -> Bool)
 
