@@ -1,4 +1,7 @@
-module Equal exposing (Equal(..))
+module Equal exposing
+    ( Equal(..)
+    , equal
+    )
 
 {-| A module for complex numbers
 
