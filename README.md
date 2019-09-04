@@ -2,6 +2,10 @@
 
 ## Summary
 
+
+UNMAINTAINED! Use https://package.elm-lang.org/packages/nikita-volkov/typeclasses/latest/
+
+
 A module to define a equal typeclass
 
 The Eq typeclass provides an interface for testing for equality. Any type where it makes sense to test for equality between two values of that type should be a member of the Eq class. All standard Haskell types except for IO (the type for dealing with input and output) and functions are a part of the Eq typeclass.

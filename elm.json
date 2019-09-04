@@ -1,7 +1,7 @@
 {
     "type": "package",
     "name": "jonathanfishbein1/elm-equal",
-    "summary": "An equal package",
+    "summary": "DEPRECATED An equal package",
     "license": "BSD-3-Clause",
     "version": "1.0.1",
     "exposed-modules": [
